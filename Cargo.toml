@@ -1,0 +1,19 @@
+[package]
+name = "ai-watcher"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+toml = "1.1"
+tokio = { version = "1.38", features = ["full"] }
+reqwest = { version = "0.13", features = ["json", "multipart"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+ratatui = "0.30"
+crossterm = "0.29"
+base64 = "0.23"
+dotenvy = "0.15"
+hyprland = "0.3"
+syntect = "5.3.0"
+pulldown-cmark = "0.13.5"
+thiserror = "2.0.21"

@@ -1,0 +1,18 @@
+# Build artifacts
+/target/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
