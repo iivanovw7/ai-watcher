@@ -1,6 +1,6 @@
 # AI Watcher
 
-Tui application written in Rust that monitors the focused Hyprland monitor for trigger keywords via OCR, analyzes screen content and run specified queries.
+Tui application that monitors the focused Hyprland monitor for trigger keywords via OCR, analyzes screen content and run specified queries.
 
 ---
 
