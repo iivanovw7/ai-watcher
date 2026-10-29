@@ -1,6 +1,6 @@
 # AI Watcher
 
-A blazing-fast terminal user interface (TUI) application written in Rust that monitors the focused Hyprland monitor for trigger keywords via OCR, and queries the OpenAI Vision API to analyze screen content and run specified queries.
+Tui application written in Rust that monitors the focused Hyprland monitor for trigger keywords via OCR, analyzes screen content and run specified queries.
 
 ---
 
